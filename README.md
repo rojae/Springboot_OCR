@@ -1,12 +1,8 @@
 ## ⏰ 개발기간
 
----
-
 약 2개월 (2019.11 ~ 2019.12)
 
 ## 💡 개발개요
-
----
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2b168277-055d-46a1-9b3a-4e1a93ff311c/Untitled.png)
 
@@ -20,8 +16,6 @@
     
 
 ## 🎞 비즈니스 모델
-
----
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3c16a9a-4534-4334-96ee-6fbed1728d13/Untitled.png)
 
