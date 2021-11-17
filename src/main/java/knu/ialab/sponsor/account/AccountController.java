@@ -25,7 +25,6 @@ public class AccountController {
     @Autowired
     BillService billService;
 
-    //http://localhost:8080/account/오재성/201413314/201513430@kangwon.ac.kr/123/ADMIN/ADMIN
     @PostMapping("/account/{userName}/{userSeq}/{email}/{password}/{role}/{userType}")
     public Object createAccount(@ModelAttribute Account account) {
         Account createdAccount = accountService.createNew(account);
