@@ -2,6 +2,9 @@
 
 약 2개월 (2019.11 ~ 2019.12)
 
+
+
+
 ## 💡 개발개요
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2b168277-055d-46a1-9b3a-4e1a93ff311c/Untitled.png)
@@ -14,6 +17,8 @@
 - **목표**
     - 강원대학교와 후원의 집 이해관계자의 커뮤니케이션을 돕는다.
     
+
+
 
 ## 🎞 비즈니스 모델
 
@@ -30,3 +35,7 @@
     - 후원금 유지 및 증대 가능.
 - 결과
     - 서로 간의 가치 교환이 가능하다.
+
+## 시연영상
+https://www.youtube.com/watch?v=YqhzgW87zPs
+
